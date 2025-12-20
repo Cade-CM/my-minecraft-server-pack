@@ -1,0 +1,16 @@
+filename = 'ftb-teams-neoforge-2101.1.8.jar'
+name = 'FTB Teams (NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9e19e28342ddc6fb1aef9db41fafb187c3ffa4b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7315210
+project-id = 404468

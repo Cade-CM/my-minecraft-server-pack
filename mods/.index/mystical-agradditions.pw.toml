@@ -1,0 +1,16 @@
+filename = 'MysticalAgradditions-1.21.1-8.0.11.jar'
+name = 'Mystical Agradditions'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7350da0a7642d4eb2372f405121770858e4035fb122e57300659990ddbe9509c7e791296ce5b2cf83ffe9bd4a320fab10cc8d1b6675840c84e3fa73ac01c135a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pl0jGXIx/versions/J6dMJTRV/MysticalAgradditions-1.21.1-8.0.11.jar'
+
+[update.modrinth]
+mod-id = 'pl0jGXIx'
+version = 'J6dMJTRV'

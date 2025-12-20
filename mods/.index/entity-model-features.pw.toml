@@ -1,0 +1,16 @@
+filename = 'entity_model_features_1.21-neoforge-3.0.7.jar'
+name = '[EMF] Entity Model Features'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f429aadddb3723a9bb4056e13dfd2c7dca1c6af471c11066eb6bafe72d25758c58897229b6a4aae4898cb3cef0db252844d0eaa14033acc67438ae8640cbaaa7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4I1XuqiY/versions/sKRcyJZ6/entity_model_features_1.21-neoforge-3.0.7.jar'
+
+[update.modrinth]
+mod-id = '4I1XuqiY'
+version = 'sKRcyJZ6'

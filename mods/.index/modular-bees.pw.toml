@@ -1,0 +1,16 @@
+filename = 'ModularBees-1.21.1-2.4-neoforge.jar'
+name = 'Modular Bees'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c035d380a8a6e5ec21b50e04095efd7c0a772f0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7349737
+project-id = 1350380

@@ -1,0 +1,16 @@
+filename = 'cobblemonjourneymounts-1.6.0.jar'
+name = 'Cobblemon Journey Mounts'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c11f03edf5d1278b49af4c91cdb3cb008645dd903b6e5c50c293126601f90427e51c52125187c6a894f81ad90fc7970ac843080a00dbe95f6a54ab42f1f4d74e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vn5WCYr6/versions/wMFTLuNC/cobblemonjourneymounts-1.6.0.jar'
+
+[update.modrinth]
+mod-id = 'Vn5WCYr6'
+version = 'wMFTLuNC'

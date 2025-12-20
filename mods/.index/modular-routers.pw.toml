@@ -1,0 +1,16 @@
+filename = 'modular-routers-13.2.3+mc1.21.1.jar'
+name = 'Modular Routers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9050df20565d21e668841f9eb0182c16307a53ef6fb5fcd2a86099ead7ee074860cd47d3de3326983a76fe8ee28f5c42400e8029d9bb59fade43e2df855d7ccc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EuTS81Z3/versions/tnxKKShu/modular-routers-13.2.3%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'EuTS81Z3'
+version = 'tnxKKShu'

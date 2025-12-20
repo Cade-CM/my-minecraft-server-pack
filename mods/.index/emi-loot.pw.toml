@@ -1,0 +1,16 @@
+filename = 'emi_loot-0.7.8+1.21+neoforge.jar'
+name = 'EMI Loot'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0fa7122459043b1d692e3c0ec2b712f5af743cfc21ebc51c4a147d2908fa7ca4eba9b1236ecdbbff1dbcdc360e7a4effd68169d76aa285ae5fa952e25d1de156'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qbbO7Jns/versions/LNBoaKYt/emi_loot-0.7.8%2B1.21%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'qbbO7Jns'
+version = 'LNBoaKYt'

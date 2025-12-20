@@ -1,0 +1,16 @@
+filename = 'cobblenav-neoforge-2.2.5.jar'
+name = 'Cobblemon Pokenav'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '98765d7f4aa9027e760cd1ef441b57b301e81f71dfaa6e7ef52b4f8bbc3a549c0606a2984a790dc888b455f0e615160f0a44df0c1a1ea72ffba33867052e16fc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bI8Nt3uA/versions/owKhDJhF/cobblenav-neoforge-2.2.5.jar'
+
+[update.modrinth]
+mod-id = 'bI8Nt3uA'
+version = 'owKhDJhF'

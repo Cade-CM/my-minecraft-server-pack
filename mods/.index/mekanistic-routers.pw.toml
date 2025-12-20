@@ -1,0 +1,16 @@
+filename = 'mekanisticrouters-1.1.1.jar'
+name = 'Mekanistic Routers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fccfb7015b93635dea7327f5c918ef5e0c2ca07d985870e3f5f565517480229cc56de1658ebd6f6f944ff0b9a47d0bf81d74f6a2bff4439b9c07580e9a1961a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DEgmLF9Z/versions/bcN1Ttet/mekanisticrouters-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'DEgmLF9Z'
+version = 'bcN1Ttet'

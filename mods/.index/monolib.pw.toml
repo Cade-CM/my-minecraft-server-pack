@@ -1,0 +1,16 @@
+filename = 'monolib-neoforge-1.21.1-2.1.0.jar'
+name = 'MonoLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eb5ca781463ddab7d8790d3c17782b291b9cf61e07e1133d082fddbdcd3acb92e8a3a9e5b66165b62aa4b3c75aeb7db0be71e5572ad50639fbdcf432e712b265'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9leXt4A5/versions/mdyJwxhY/monolib-neoforge-1.21.1-2.1.0.jar'
+
+[update.modrinth]
+mod-id = '9leXt4A5'
+version = 'mdyJwxhY'

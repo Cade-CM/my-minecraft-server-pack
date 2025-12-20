@@ -1,0 +1,16 @@
+filename = 'MoreCobblemonTweaks-neoforge-1.2.1.jar'
+name = 'MoreCobblemonTweaks'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b4bb5c73a85eeeb765af9f9895ac185cfaec06d40d5cac65d32c2177cd68702cd9ea34abf340890cc1f825a0b8391524cbdbe4425978c3036b34c487f9ea40bb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5KWlJ2HC/versions/Cj2uNtQo/MoreCobblemonTweaks-neoforge-1.2.1.jar'
+
+[update.modrinth]
+mod-id = '5KWlJ2HC'
+version = 'Cj2uNtQo'

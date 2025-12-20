@@ -1,0 +1,16 @@
+filename = 'occultism-1.21.1-neoforge-1.199.0.jar'
+name = 'Occultism'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f45ddeb395c690cf2651b686e4e17ee5969009c0a76a37a0bbdb03734a4c59d01fd96af14a69b17628cdcd6acbe1e894772383d5a6691850b4dcfac702ad838b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sbJh4AZw/versions/koWJU1pV/occultism-1.21.1-neoforge-1.199.0.jar'
+
+[update.modrinth]
+mod-id = 'sbJh4AZw'
+version = 'koWJU1pV'

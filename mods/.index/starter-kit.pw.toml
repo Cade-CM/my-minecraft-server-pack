@@ -1,0 +1,16 @@
+filename = 'starterkit-1.21.1-7.4.jar'
+name = 'Starter Kit'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '302e822e83a50369a508de6b69f4153eea7b8015e0b78fa554425ea031f449f77f4c2d96c8f1aa892f8f747a24e77b60753cf0a3bf7d27887d056440e5712301'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6L3ydNi8/versions/RQxn2aC4/starterkit-1.21.1-7.4.jar'
+
+[update.modrinth]
+mod-id = '6L3ydNi8'
+version = 'RQxn2aC4'

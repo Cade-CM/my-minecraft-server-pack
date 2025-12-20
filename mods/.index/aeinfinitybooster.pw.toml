@@ -1,0 +1,16 @@
+filename = 'aeinfinitybooster-neoforge-1.21.1-1.0.0.52.jar'
+name = 'AEInfinityBooster'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a0af118df8955bcbd70c41f48e4ad5a94827e5901ea5cf7a07c4e233f25e430a6265c1a245cdee6a72796941a129ccede03a229bf4efd9f85fd76ad1fd1b8409'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VQhDBNs8/versions/kR8WaFtI/aeinfinitybooster-neoforge-1.21.1-1.0.0.52.jar'
+
+[update.modrinth]
+mod-id = 'VQhDBNs8'
+version = 'kR8WaFtI'

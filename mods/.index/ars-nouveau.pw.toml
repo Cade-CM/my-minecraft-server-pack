@@ -1,0 +1,16 @@
+filename = 'ars_nouveau-1.21.1-5.10.6.jar'
+name = 'Ars Nouveau'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9177ea8f3ad743a6de82bab83bd4e9e82c937442c7f093c29ce2a109c71d79fb5c1e93c3f07de72636dba272034f35711357300683413995034028a4cd55d56d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TKB6INcv/versions/pFwdTxwL/ars_nouveau-1.21.1-5.10.6.jar'
+
+[update.modrinth]
+mod-id = 'TKB6INcv'
+version = 'pFwdTxwL'
