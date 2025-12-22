@@ -8,7 +8,14 @@
         "fisherman": [],
         "fletcher": [],
         "leatherworker": [],
-        "librarian": [],
+        "librarian": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":1}}}}"
+            }
+        ],
         "mason": [],
         "shepherd": [],
         "toolsmith": [],
