@@ -1,0 +1,50 @@
+/back
+/home
+/back
+/home
+/rtp
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/rtp
+/home
+/rtp
+/home
+/rtp
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/gamerule playersSleepingPercentage -1
+/tpa GameMonster9640
+/tp GameMonster9640
+/home
+/rtp
+/back
+/home
+/back
+/home
+/curios list
+/curios add @s charm 1
+/curios add charm Redcats13 1
+/tags item artifacts:obsidian_skull
+/curios list

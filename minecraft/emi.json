@@ -1,0 +1,233 @@
+{
+  "favorites": [
+    {
+      "stack": "item:bhc:heart_amulet"
+    },
+    {
+      "stack": "item:bhc:red_heart_canister"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:crafting_upgrade"
+    },
+    {
+      "stack": "item:mekanismgenerators:heat_generator"
+    },
+    {
+      "stack": "item:mekanism:basic_energy_cube"
+    },
+    {
+      "stack": "item:mekanism:metallurgic_infuser"
+    },
+    {
+      "stack": "item:mekanism:basic_smelting_factory"
+    },
+    {
+      "stack": "item:mekanism:basic_enriching_factory"
+    },
+    {
+      "stack": "item:mekanism:upgrade_speed"
+    },
+    {
+      "stack": "item:mekanism:upgrade_energy"
+    },
+    {
+      "stack": "item:mekanism:upgrade_muffling"
+    },
+    {
+      "stack": "item:mekanismgenerators:wind_generator"
+    },
+    {
+      "stack": "item:sophisticatedstorage:hopper_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedstorage:advanced_hopper_upgrade"
+    },
+    {
+      "stack": "item:easy_villagers:trader"
+    },
+    {
+      "stack": "item:easy_villagers:farmer"
+    },
+    {
+      "stack": "item:easy_villagers:breeder"
+    },
+    {
+      "stack": "item:easy_villagers:converter"
+    },
+    {
+      "stack": "item:easy_villagers:iron_farm"
+    },
+    {
+      "stack": "item:easy_villagers:incubator"
+    },
+    {
+      "stack": "item:easy_villagers:inventory_viewer"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:arrow",
+        "amount": 2
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:coal",
+        "amount": 2
+      }
+    }
+  ],
+  "lookup_history": [
+    "mob_effect:relics:paralysis",
+    "mob_effect:relics:confusion",
+    "item:bhc:red_heart_canister",
+    "item:bhc:relic_apple",
+    "item:bhc:canister",
+    "item:bhc:heart_amulet",
+    "item:sophisticatedstorage:iron_to_gold_tier_upgrade",
+    "item:mekanism:upgrade_speed",
+    "item:easy_villagers:iron_farm",
+    "item:easy_villagers:incubator",
+    "item:easy_villagers:breeder",
+    "item:easy_villagers:trader",
+    "item:minecraft:crafter",
+    "item:alltheores:cinnabar_dust",
+    "item:alltheores:cinnabar",
+    "item:minecraft:lapis_lazuli",
+    "item:occultism:lapis_dust",
+    "item:sophisticatedstorage:advanced_hopper_upgrade",
+    "item:minecraft:diamond",
+    "item:farmersdelight:diamond_knife",
+    "item:minecraft:dropper",
+    "item:alltheores:diamond_dust",
+    "#item:c:dusts/diamond",
+    "item:mekanism:enriched_diamond",
+    "item:sophisticatedstorage:hopper_upgrade",
+    "item:sophisticatedstorage:upgrade_base",
+    "item:sophisticatedstorage:stack_upgrade_tier_1",
+    "item:sophisticatedstorage:stack_upgrade_tier_5",
+    "item:storage_allthemodium_upgrade:stack_upgrade_tier_6",
+    "item:backpack_allthemodium_upgrade:stack_upgrade_tier_5",
+    "#item:minecraft:planks",
+    "item:storage_allthemodium_upgrade:stack_upgrade_tier_7",
+    "item:mekanism:basic_universal_cable",
+    "item:mekanismgenerators:wind_generator",
+    "item:mekanism:energy_tablet",
+    "item:mekanism:basic_enriching_factory",
+    "item:mekanism:enrichment_chamber",
+    "item:mekanism:alloy_infused",
+    "item:mekanism:upgrade_anchor",
+    "#item:c:dusts/osmium",
+    "item:mekanism:basic_control_circuit",
+    "item:minecraft:iron_ingot",
+    "item:mekanism:steel_casing",
+    "item:mekanism:basic_smelting_factory",
+    "item:mekanism:energized_smelter",
+    "item:mekanism:metallurgic_infuser",
+    "item:mekanism:basic_energy_cube",
+    "#item:c:ingots/steel",
+    "item:alltheores:copper_ore_hammer",
+    "item:alltheores:steel_dust",
+    "item:alltheores:iron_dust",
+    "item:alltheores:steel_ingot",
+    "item:mekanismgenerators:heat_generator",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_1",
+    "item:sophisticatedbackpacks:upgrade_base",
+    "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
+    "item:sophisticatedstorage:basic_to_iron_tier_upgrade",
+    "item:alltheores:raw_platinum",
+    "item:mekanism:raw_osmium",
+    "#item:c:raw_materials/osmium",
+    "item:alltheores:osmium_ingot",
+    "item:sophisticatedbackpacks:crafting_upgrade",
+    "item:sophisticatedstorage:crafting_upgrade",
+    "item:sophisticatedbackpacks:iron_backpack"
+  ],
+  "craft_history": [
+    "cobblemon:great_ball",
+    "minecraft:bookshelf",
+    "minecraft:spruce_planks",
+    "minecraft:enchanting_table",
+    "minecraft:iron_ingot_from_iron_block",
+    "minecraft:iron_block",
+    "botanypotstiers:pots/elite_terracotta_hopper_botany_pot_upgrade_same_material",
+    "bhc:red_heart_canister",
+    "bhc:relic_apple_rotated",
+    "bhc:canister",
+    "bhc:heart_amulet",
+    "sophisticatedbackpacks:diamond_backpack",
+    "sophisticatedbackpacks:gold_backpack",
+    "sophisticatedbackpacks:iron_backpack",
+    "minecraft:gold_ingot_from_gold_block",
+    "sophisticatedbackpacks:stack_upgrade_tier_2",
+    "minecraft:gold_block",
+    "sophisticatedstorage:basic_tier_upgrade",
+    "minecraft:stick",
+    "minecraft:birch_planks",
+    "sophisticatedstorage:iron_to_gold_tier_upgrade",
+    "minecraft:redstone_torch",
+    "sophisticatedstorage:stack_upgrade_tier_3",
+    "minecraft:flint_and_steel",
+    "minecraft:shield",
+    "minecraft:torch",
+    "minecraft:flower_pot",
+    "botanypots:botanypots/crafting/terracotta_hopper_botany_pot",
+    "minecraft:hopper",
+    "minecraft:chest",
+    "ars_nouveau:archwood_planks",
+    "botanypots:botanypots/crafting/terracotta_botany_pot",
+    "minecraft:clay",
+    "minecraft:raw_iron",
+    "minecraft:black_dye",
+    "easy_villagers:iron_farm",
+    "minecraft:spruce_trapdoor",
+    "easy_villagers:incubator",
+    "easy_villagers:breeder",
+    "minecraft:glass_pane",
+    "sophisticatedstorage:advanced_hopper_upgrade",
+    "minecraft:dropper",
+    "sophisticatedstorage:hopper_upgrade",
+    "minecraft:oak_planks",
+    "sophisticatedstorage:stack_upgrade_tier_2",
+    "sophisticatedstorage:stack_upgrade_tier_1",
+    "sophisticatedstorage:upgrade_base",
+    "sophisticatedstorage:basic_to_iron_tier_upgrade",
+    "minecraft:copper_ingot",
+    "mekanism:transmitter/universal_cable/basic",
+    "mekanismgenerators:generator/wind",
+    "mekanism:energy_tablet",
+    "mekanism:enrichment_chamber",
+    "mekanism:steel_casing",
+    "alltheores:crafting/steel/alloy_blending_from_dust",
+    "alltheores:crafting/hammer/iron/dust_from_raw",
+    "mekanism:factory/basic/smelting",
+    "mekanism:energized_smelter",
+    "mekanism:energy_cube/basic",
+    "mekanism:metallurgic_infuser",
+    "minecraft:furnace",
+    "alltheores:copper_ore_hammer",
+    "minecraft:copper_block",
+    "minecraft:stone_sword",
+    "mekanismgenerators:generator/heat",
+    "minecraft:diamond_pickaxe",
+    "minecraft:iron_pickaxe",
+    "sophisticatedbackpacks:stack_upgrade_tier_1_from_starter",
+    "sophisticatedbackpacks:upgrade_base",
+    "minecraft:stone_pickaxe",
+    "sophisticatedbackpacks:crafting_upgrade",
+    "minecraft:crafting_table",
+    "minecraft:bucket",
+    "minecraft:smoker",
+    "minecraft:stone_axe",
+    "minecraft:white_bed",
+    "minecraft:wooden_pickaxe"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

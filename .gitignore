@@ -1,0 +1,39 @@
+# user-specific settings
+options.txt
+optionsof.txt
+optionsshaders.txt
+keybindings.txt
+servers.dat
+
+# world data
+saves/
+world/
+serverconfig/
+playerdata/
+stats/
+advancements/
+poi/
+region/
+entities/
+
+# logs & crashes
+logs/
+crash-reports/
+
+# caches
+local/
+cache/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+.mixin.out/
+downloads/
+moddata/
+
+# maps / voice
+journeymap/
+xaero/
+voicechat/
+
+# usually not redistributed
+resourcepacks/
+shaderpacks/
