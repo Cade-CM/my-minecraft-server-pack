@@ -149,6 +149,12 @@
   "mysticalagradditions": {
     "infused_farmland": true
   },
+  "reliquary": {
+    "pedestal": true,
+    "altar": true,
+    "mortar": true,
+    "cauldron": true
+  },
   "supplementaries": {
     "hat_stand": true
   },

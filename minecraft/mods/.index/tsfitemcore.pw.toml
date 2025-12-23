@@ -1,0 +1,16 @@
+filename = 'tsfitemcore-1.0.0-neoforge.jar'
+name = "TSFlareon's Item Core"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'db958ca3ced8b2e1790fd113f24f2027dd9a03a24e0130bfb4fb0bd64a3e75375653710cdb140d6cf2c22c333397469dc6954dd34dd7ab7b167d163322b9b2df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5nVJBjnO/versions/eAYGwYsy/tsfitemcore-1.0.0-neoforge.jar'
+
+[update.modrinth]
+mod-id = '5nVJBjnO'
+version = 'eAYGwYsy'

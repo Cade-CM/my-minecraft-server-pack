@@ -1,50 +1,50 @@
-/home
-/back
-/home
-/back
-/home
-/back
-/home
-/back
-/home
-/back
-/home
-/rtp
-/home
-/rtp
-/home
-/rtp
-/home
-/back
-/home
-/back
-/home
-/back
-/home
-/back
-/home
-/back
-/home
-/back
-/home
-/back
-/home
-/gamerule playersSleepingPercentage -1
-/tpa GameMonster9640
-/tp GameMonster9640
-/home
-/rtp
-/back
-/home
-/back
-/home
-/curios list
-/curios add @s charm 1
-/curios add charm Redcats13 1
-/tags item artifacts:obsidian_skull
-/curios list
-/home
-/back
-/locate biome minecraft:swamp
-/tp @s -5187 70 8316
-/home
+/pokegive noivern
+/pc
+/pokegive typhlosion
+/pc
+/reload
+/healpokemon
+/datapack list
+/datapack enable
+/datapack enable "file/Z-A Mega's Early.zip"
+/datapack list
+/pokegive hawlucha
+/pc
+/pokegive charizard
+/pc
+/give @p mega_showdown:tyranitarite
+/datapack list
+/pc
+/pokegive ceruledge
+/pc
+/megaresetcommon
+/msdresetlock
+/msd apply mega horret-fakemegas:cerulite
+/datapack list
+/pokegive yveltal
+/pc
+/data get entity @s SelectedItem
+/reload
+/reloadshowdown
+/reload
+/give @s minecraft:paper[minecraft:custom_model_data=220001,minecraft:item_name='{"translate":"item.name.noivernite","italic":false}']
+/pokegive noivern
+/pc
+/data get entity @s SelectedItem
+/reload
+/data get entity @s SelectedItem
+/reload
+/kubejs hand
+/reload
+/pokegive noivern
+/reload
+/reload\
+/reload
+/pokegive ceruledge
+/pokegive flygon
+/pokegive drifblim
+/reload
+/kubejs hand
+/reload
+/re;oad
+/reload
