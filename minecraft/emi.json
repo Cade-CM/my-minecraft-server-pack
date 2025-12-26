@@ -187,6 +187,14 @@
     }
   ],
   "lookup_history": [
+    "item:easy_mob_farm:ocean_farm{\"easy_mob_farm:mob_farm_data\":{tierLevel:\"tier_1\"},\"minecraft:custom_model_data\":1}",
+    "item:easy_mob_farm:sword_enhancement",
+    "item:easy_mob_farm:tier2_mob_farm_template",
+    "item:easy_mob_farm:creative_blank_mob_capture_card",
+    "item:easy_mob_farm:tier3_mob_farm_template",
+    "item:easy_mob_farm:tier1_mob_farm_template",
+    "item:easy_mob_farm:tier0_mob_farm_template",
+    "item:easy_mob_farm:blank_mob_capture_card",
     "item:sophisticatedstorage:basic_tier_upgrade",
     "item:sophisticatedstorage:hopper_upgrade",
     "bee:productivebees:/coal",

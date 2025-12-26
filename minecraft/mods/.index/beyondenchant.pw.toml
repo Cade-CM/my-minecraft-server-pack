@@ -1,0 +1,16 @@
+filename = 'beyondenchant-1.5.0.jar'
+name = 'BeyondEnchant'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '717506927a07489e22d763ddb4da2a43b4cbf136855a8de163f8f053575d85dfe4cfb1c351aa3afd7515b77d97d80b00a7bfa83c19ed8c9514bb14d442513457'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t2pMCVgG/versions/hIQjGO1J/beyondenchant-1.5.0.jar'
+
+[update.modrinth]
+mod-id = 't2pMCVgG'
+version = 'hIQjGO1J'
