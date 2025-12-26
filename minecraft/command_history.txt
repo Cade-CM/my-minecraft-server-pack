@@ -1,13 +1,3 @@
-/pokegive noivern
-/pc
-/pokegive typhlosion
-/pc
-/reload
-/healpokemon
-/datapack list
-/datapack enable
-/datapack enable "file/Z-A Mega's Early.zip"
-/datapack list
 /pokegive hawlucha
 /pc
 /pokegive charizard
@@ -48,3 +38,13 @@
 /reload
 /re;oad
 /reload
+/pc
+/pokespawn groudon
+/home
+/pc
+/rtp
+/home
+/pokespawn groudon
+/home
+/pc
+/home

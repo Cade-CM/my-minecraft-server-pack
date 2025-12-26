@@ -64,25 +64,206 @@
       "stack": "item:easy_villagers:inventory_viewer"
     },
     {
+      "stack": "item:productivebees:bottler"
+    },
+    {
+      "stack": "item:productivebees:centrifuge"
+    },
+    {
+      "stack": "item:productivebees:powered_centrifuge"
+    },
+    {
+      "stack": "item:productivebees:heated_centrifuge"
+    },
+    {
+      "stack": "item:productivebees:honey_generator"
+    },
+    {
+      "stack": "item:productivebees:catcher"
+    },
+    {
+      "stack": "item:productivebees:incubator"
+    },
+    {
+      "stack": "item:productivebees:gene_indexer"
+    },
+    {
+      "stack": "item:productivebees:breeding_chamber"
+    },
+    {
+      "stack": "item:productivebees:bee_cage"
+    },
+    {
+      "stack": "item:productivelib:upgrade_base",
+      "recipe": "productivebees:upgrades/base"
+    },
+    {
+      "stack": "item:productivelib:upgrade_productivity",
+      "recipe": "productivebees:upgrades/productivity"
+    },
+    {
+      "stack": "item:productivelib:upgrade_productivity_2",
+      "recipe": "productivebees:upgrades/productivity_2"
+    },
+    {
+      "stack": "item:productivelib:upgrade_productivity_3",
+      "recipe": "productivebees:upgrades/productivity_3"
+    },
+    {
+      "stack": "item:productivelib:upgrade_productivity_4",
+      "recipe": "productivebees:upgrades/productivity_4"
+    },
+    {
+      "stack": "item:productivelib:upgrade_time",
+      "recipe": "productivebees:upgrades/time"
+    },
+    {
+      "stack": "item:productivelib:upgrade_child",
+      "recipe": "productivebees:upgrades/breeding"
+    },
+    {
+      "stack": "item:productivelib:upgrade_adult",
+      "recipe": "productivebees:upgrades/not_babee"
+    },
+    {
+      "stack": "item:productivelib:upgrade_block",
+      "recipe": "productivebees:upgrades/comb_block"
+    },
+    {
+      "stack": "item:productivelib:upgrade_anti_teleport",
+      "recipe": "productivebees:upgrades/anti_teleport"
+    },
+    {
+      "stack": "item:productivelib:upgrade_range",
+      "recipe": "productivebees:upgrades/range"
+    },
+    {
+      "stack": "item:productivelib:upgrade_entity_filter",
+      "recipe": "productivebees:upgrades/filter"
+    },
+    {
+      "stack": "item:productivelib:upgrade_gene_sampler",
+      "recipe": "productivebees:upgrades/bee_sampler"
+    },
+    {
+      "stack": "item:productivelib:upgrade_simulator",
+      "recipe": "productivebees:upgrades/simulator"
+    },
+    {
+      "stack": "item:productivebees:feeder"
+    },
+    {
+      "stack": "item:simpletms:tr_focusblast"
+    },
+    {
+      "stack": "item:minecraft:bee_spawn_egg",
+      "recipe": "minecraft:/bee_incubation"
+    },
+    {
       "stack": {
         "type": "item",
-        "id": "minecraft:arrow",
-        "amount": 2
+        "id": "minecraft:smooth_stone_slab",
+        "amount": 8
       }
     },
     {
       "stack": {
         "type": "item",
-        "id": "minecraft:coal",
-        "amount": 2
+        "id": "productivebees:sturdy_bee_cage",
+        "amount": 5
       }
     },
     {
-      "stack": "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:sapphire\"}}",
-      "recipe": "productivebees:/sapphire_incubation"
+      "stack": "item:mekanism:basic_logistical_transporter"
+    },
+    {
+      "stack": "item:mekanism:configurator"
+    },
+    {
+      "stack": "bee:productivebees:/coal"
+    },
+    {
+      "stack": "bee:productivebees:/emerald"
     }
   ],
   "lookup_history": [
+    "item:sophisticatedstorage:basic_tier_upgrade",
+    "item:sophisticatedstorage:hopper_upgrade",
+    "bee:productivebees:/coal",
+    "item:productivelib:upgrade_simulator",
+    "item:productivebees:feeder",
+    "item:productivelib:upgrade_anti_teleport",
+    "item:minecraft:emerald",
+    "item:productivebees:end_stone_nest",
+    "bee:productivebees:/ender",
+    "bee:productivebees:/diamond",
+    "bee:productivebees:/emerald",
+    "bee:productivebees:/slimy",
+    "item:bhc:red_heart_canister",
+    "item:minecraft:coarse_dirt",
+    "item:productivebees:coarse_dirt_nest",
+    "item:productivebees:nest_locator",
+    "bee:productivebees:/leafcutter_bee",
+    "bee:productivebees:/magmatic",
+    "item:productivebees:nether_brick_nest",
+    "#item:c:eggs",
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:coal\"}}",
+    "item:minecraft:bee_spawn_egg",
+    "item:productivebees:gene",
+    "item:productivebees:honey_treat{\"productivebees:gene_group_list\":[{attribute:\"type\",purity:100,value:\"productivebees:coal\"}]}",
+    "item:productivebees:breeding_chamber",
+    "item:minecraft:rose_bush",
+    "item:productivelib:upgrade_child",
+    "item:productivelib:upgrade_base",
+    "item:productivebees:incubator",
+    "item:minecraft:daylight_detector",
+    "item:productivebees:honey_generator",
+    "item:productivebees:powered_centrifuge",
+    "item:productivebees:centrifuge",
+    "item:productivebees:gene_indexer",
+    "item:productivebees:catcher",
+    "item:mekanism:configurator",
+    "item:mekanism:basic_logistical_transporter",
+    "item:mekanism:dust_steel",
+    "item:mekanism:ingot_steel",
+    "#item:c:ingots/steel",
+    "item:mekanism:enriched_iron",
+    "item:alltheores:steel_dust",
+    "#item:c:dusts/steel",
+    "item:alltheores:steel_ingot",
+    "item:mekanism:basic_control_circuit",
+    "#item:minecraft:flowers",
+    "item:minecraft:honeycomb_block",
+    "#item:c:storage_blocks/honeycombs",
+    "item:productivebees:upgrade_simulator",
+    "item:productivebees:upgrade_bee_sampler",
+    "item:productivebees:upgrade_filter",
+    "item:productivebees:upgrade_range",
+    "item:productivebees:upgrade_anti_teleport",
+    "item:productivebees:upgrade_comb_block",
+    "item:productivebees:upgrade_not_babee",
+    "item:productivebees:upgrade_breeding",
+    "item:productivebees:upgrade_time",
+    "item:productivebees:upgrade_productivity_4",
+    "item:productivebees:upgrade_productivity_3",
+    "item:productivebees:upgrade_productivity_2",
+    "item:productivebees:upgrade_productivity",
+    "item:productivebees:upgrade_base",
+    "item:minecraft:beehive",
+    "item:productivebees:advanced_spruce_beehive",
+    "item:productivebees:advanced_mangrove_beehive",
+    "item:productivebees:expansion_box_mangrove",
+    "item:minecraft:campfire",
+    "#item:c:campfires",
+    "#item:minecraft:coals",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:earth_essence\"}",
+    "item:productivebees:expansion_box_dark_oak",
+    "#item:c:buckets/honey",
+    "item:minecraft:grindstone",
+    "item:productivebees:bottler",
+    "item:productivebees:bee_cage",
+    "item:productivebees:sturdy_bee_cage",
+    "item:minecraft:stonecutter",
     "item:mega_showdown:noivernite",
     "item:minecraft:smithing_table",
     "item:mega_showdown:mega_stone",
@@ -114,7 +295,6 @@
     "item:sophisticatedstorage:stack_upgrade_tier_1_plus",
     "item:sophisticatedstorage:limited_copper_barrel_1{\"sophisticatedcore:accent_color\":-5231066,\"sophisticatedcore:main_color\":-5231066}",
     "item:sophisticatedstorage:upgrade_base",
-    "item:sophisticatedstorage:hopper_upgrade",
     "item:reliquary:infernal_tear",
     "item:biomeswevegone:witch_hazel_crafting_table",
     "item:minecraft:apple",
@@ -128,7 +308,6 @@
       "id": "minecraft:compass",
       "amount": 2
     },
-    "item:bhc:red_heart_canister",
     "item:bhc:relic_apple",
     "item:bhc:canister",
     "item:bhc:heart_amulet",
@@ -161,18 +340,14 @@
     "item:mekanism:alloy_infused",
     "item:mekanism:upgrade_anchor",
     "#item:c:dusts/osmium",
-    "item:mekanism:basic_control_circuit",
     "item:minecraft:iron_ingot",
     "item:mekanism:steel_casing",
     "item:mekanism:basic_smelting_factory",
     "item:mekanism:energized_smelter",
     "item:mekanism:metallurgic_infuser",
     "item:mekanism:basic_energy_cube",
-    "#item:c:ingots/steel",
     "item:alltheores:copper_ore_hammer",
-    "item:alltheores:steel_dust",
     "item:alltheores:iron_dust",
-    "item:alltheores:steel_ingot",
     "item:mekanismgenerators:heat_generator",
     "item:sophisticatedbackpacks:stack_upgrade_tier_1",
     "item:sophisticatedbackpacks:upgrade_base",
@@ -187,12 +362,40 @@
     "item:sophisticatedbackpacks:iron_backpack"
   ],
   "craft_history": [
+    "minecraft:bone_meal",
+    "productivelib:upgrades/simulator",
+    "minecraft:honeycomb_block",
+    "minecraft:coarse_dirt",
+    "productivebees:nests/nether_brick_nest",
+    "minecraft:nether_bricks",
+    "productivebees:breeding_chamber",
+    "productivelib:upgrades/child",
+    "productivelib:upgrades/base_pb",
+    "productivebees:incubator",
+    "minecraft:daylight_detector",
+    "minecraft:spruce_slab",
+    "productivebees:honey_generator",
+    "minecraft:furnace",
+    "mekanism:configurator",
+    "mekanism:transmitter/logistical_transporter/basic",
+    "productivebees:powered_centrifuge/mekanism",
+    "productivebees:feeder",
+    "productivebees:honey_treat",
+    "minecraft:beehive",
+    "minecraft:campfire",
+    "productivebees:expansion_boxes/expansion_box_spruce",
+    "productivebees:centrifuge",
+    "minecraft:grindstone",
+    "minecraft:stone_slab",
+    "productivebees:bottler",
+    "minecraft:stonecutter",
+    "minecraft:spruce_planks",
+    "minecraft:oak_planks",
     "mega_showdown:crafting_noivernite",
     "alltheores:crafting/aluminum/ingot_from_block",
     "alltheores:crafting/aluminum/block_from_ingot",
     "sophisticatedstorage:stack_upgrade_tier_1",
     "sophisticatedstorage:upgrade_base",
-    "minecraft:spruce_planks",
     "sophisticatedstorage:spruce_chest",
     "minecraft:iron_ingot_from_iron_block",
     "sophisticatedstorage:stack_upgrade_tier_2",
@@ -246,7 +449,6 @@
     "sophisticatedstorage:advanced_hopper_upgrade",
     "minecraft:dropper",
     "sophisticatedstorage:hopper_upgrade",
-    "minecraft:oak_planks",
     "sophisticatedstorage:basic_to_iron_tier_upgrade",
     "minecraft:copper_ingot",
     "mekanism:transmitter/universal_cable/basic",
@@ -260,7 +462,6 @@
     "mekanism:energized_smelter",
     "mekanism:energy_cube/basic",
     "mekanism:metallurgic_infuser",
-    "minecraft:furnace",
     "alltheores:copper_ore_hammer",
     "minecraft:copper_block",
     "minecraft:stone_sword",

@@ -14,6 +14,36 @@
                 "priceItem1": "minecraft:emerald",
                 "priceItem2": "minecraft:book",
                 "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":1}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:thorns\":3}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":3}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":4}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:vanishing_curse\":1}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:worker_exploitation\":1}}}}"
             }
         ],
         "mason": [],
@@ -24,6 +54,32 @@
         "none": [],
         "cobblemon:nurse": [],
         "___+++___ wandering ___+++___": []
+    },
+    "localBookmarks": {
+        "dfc4b0bb-0f43-4fe8-a11e-ae9d9973d18a": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}}}"
+            }
+        ],
+        "97a85280-3883-44fe-8fef-1ba50ff87d67": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":3}}}}"
+            }
+        ],
+        "2146bbb8-f40f-4f1a-8d35-39a874501b5d": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}}"
+            }
+        ]
     },
     "globalBookmarks1": {
         "armorer": [],
