@@ -187,6 +187,12 @@
     }
   ],
   "lookup_history": [
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"enchantplus:boots/step_assist\":3}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"create:capacity\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"tombstone:blessing\":3}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":4}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:binding_curse\":1}}}",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"tombstone:curse_of_bones\":8}}}",
     "item:easy_mob_farm:ocean_farm{\"easy_mob_farm:mob_farm_data\":{tierLevel:\"tier_1\"},\"minecraft:custom_model_data\":1}",
     "item:easy_mob_farm:sword_enhancement",

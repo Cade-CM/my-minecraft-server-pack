@@ -1,0 +1,16 @@
+filename = 'Unlimited-enchantments-v1.0.3_1.21x.jar'
+name = 'Unlimited Enchantments'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25e79768c7136433d778f90a6dbc1cb209a1bced780ca4af86e2ca5690bcca971b0727c5c03b46f468da59544eba15862eeffbd47de1f94e9369a51550c0b96c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5JZ1rVU6/versions/moBxAtNY/Unlimited-enchantments-v1.0.3_1.21x.jar'
+
+[update.modrinth]
+mod-id = '5JZ1rVU6'
+version = 'moBxAtNY'
