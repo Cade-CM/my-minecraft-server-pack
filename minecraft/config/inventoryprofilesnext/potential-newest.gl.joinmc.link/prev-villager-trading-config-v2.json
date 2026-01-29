@@ -44,6 +44,60 @@
                 "priceItem1": "minecraft:emerald",
                 "priceItem2": "minecraft:book",
                 "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:worker_exploitation\":1}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:crescendo_of_bolts\":1}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:life_mending\":1}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:silk_touch\":1}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"tombstone:soulbound\":1}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":3}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"enchantplus:sword/critical\":2}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":1}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":3}}}}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":1}}}}"
             }
         ],
         "mason": [],
@@ -78,6 +132,102 @@
                 "priceItem1": "minecraft:emerald",
                 "priceItem2": "minecraft:book",
                 "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}}"
+            }
+        ],
+        "175a9577-5a4f-49d0-b4e2-53d575d6b6bb": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:scavenger\":3}}}}"
+            }
+        ],
+        "6b36fd7f-ca70-4ea2-9556-9556e5d774e4": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":3}}}}"
+            }
+        ],
+        "32bdb473-de2f-48e9-a4b5-29a1530bbe83": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}}"
+            }
+        ],
+        "548bc3f4-dd94-4d32-97c8-8917d1ef431a": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}}}"
+            }
+        ],
+        "5b4889c9-e7fc-4724-a8ca-3b395f79b3c6": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":5}}}}"
+            }
+        ],
+        "b9efecf9-82d3-4d88-94c8-9fa62c629f64": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":4}}}}"
+            }
+        ],
+        "65a69644-1dd1-4269-aabc-5aa04c6df60b": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}}}"
+            }
+        ],
+        "9e1895e1-16d9-411c-9a91-5cf1a6660998": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}}"
+            }
+        ],
+        "30b965b4-0683-48b8-9752-a1e5b4782866": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":3}}}}"
+            }
+        ],
+        "47bb9b2e-63cc-4bde-a3ed-b36f1d1064cf": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:scavenger\":3}}}}"
+            }
+        ],
+        "41ae5ecd-36ee-4095-be7a-a3476a62260b": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":5}}}}"
+            }
+        ],
+        "8eddb2a9-ef62-472e-a77c-80adc1173c0a": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":4}}}}"
             }
         ]
     },

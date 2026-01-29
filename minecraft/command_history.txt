@@ -1,50 +1,50 @@
-/pokegive hawlucha
-/pc
-/pokegive charizard
-/pc
-/give @p mega_showdown:tyranitarite
-/datapack list
-/pc
-/pokegive ceruledge
-/pc
-/megaresetcommon
-/msdresetlock
-/msd apply mega horret-fakemegas:cerulite
-/datapack list
-/pokegive yveltal
-/pc
-/data get entity @s SelectedItem
-/reload
-/reloadshowdown
-/reload
-/give @s minecraft:paper[minecraft:custom_model_data=220001,minecraft:item_name='{"translate":"item.name.noivernite","italic":false}']
-/pokegive noivern
-/pc
-/data get entity @s SelectedItem
-/reload
-/data get entity @s SelectedItem
-/reload
-/kubejs hand
-/reload
-/pokegive noivern
-/reload
-/reload\
-/reload
-/pokegive ceruledge
-/pokegive flygon
-/pokegive drifblim
-/reload
-/kubejs hand
-/reload
-/re;oad
-/reload
-/pc
-/pokespawn groudon
+/homer
 /home
+/back
+/back'
+/back
 /pc
+/pokespawn arbok
+/tp GameMonster9640
+/home
+/pokespawn arbok
+/pc
+/po
+/pc
+/back
+/tp Redcats13 222 -42 -743
+/home
 /rtp
 /home
-/pokespawn groudon
+/tp GameMonster9640
+/home
+/back
+/pokeheal
 /home
 /pc
 /home
+/back
+/home
+/rtp
+/back
+/tp 73 88 404
+/tp 73 88 4040
+/back
+/home
+/tp 71 85 4045
+/back
+/tp 166 78 4075
+/pc
+/back
+/tp 52 86 4066
+/back
+/home
+/back
+/home
+/back
+/home
+/gamemode creative
+/locate structure minecraft:village_snowy
+/spawn
+/setworldspawn
+/spawn

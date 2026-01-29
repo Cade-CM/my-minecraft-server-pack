@@ -156,10 +156,6 @@
       "stack": "item:simpletms:tr_focusblast"
     },
     {
-      "stack": "item:minecraft:bee_spawn_egg",
-      "recipe": "minecraft:/bee_incubation"
-    },
-    {
       "stack": {
         "type": "item",
         "id": "minecraft:smooth_stone_slab",
@@ -180,13 +176,225 @@
       "stack": "item:mekanism:configurator"
     },
     {
-      "stack": "bee:productivebees:/coal"
+      "stack": "bee:productivebees:/emerald"
     },
     {
-      "stack": "bee:productivebees:/emerald"
+      "stack": "item:apothic_enchanting:ender_library"
+    },
+    {
+      "stack": "item:apothic_enchanting:library",
+      "recipe": "apothic_enchanting:library"
+    },
+    {
+      "stack": "item:apothic_enchanting:infused_hellshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:hellshelf"
+    },
+    {
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}}"
+    },
+    {
+      "stack": "item:mega_showdown:zygarde_cube"
+    },
+    {
+      "stack": "item:cobblemon:exp_share"
+    },
+    {
+      "stack": "item:mega_showdown:zygarde_cell"
+    },
+    {
+      "stack": "item:mega_showdown:reassembly_unit"
+    },
+    {
+      "stack": "item:mega_showdown:cerulite"
+    },
+    {
+      "stack": "item:easy_mob_farm:nether_fortress_farm{\"easy_mob_farm:mob_farm_data\":{tierLevel:\"tier_3\"},\"minecraft:custom_model_data\":3}"
+    },
+    {
+      "stack": "item:easy_mob_farm:big_slot_upgrade"
+    },
+    {
+      "stack": "item:easy_mob_farm:experience_enhancement"
+    },
+    {
+      "stack": "item:easy_mob_farm:loot_enhancement"
+    },
+    {
+      "stack": "item:easy_mob_farm:luck_enhancement"
+    },
+    {
+      "stack": "item:easy_mob_farm:small_slot_upgrade"
+    },
+    {
+      "stack": "item:easy_mob_farm:speed_enhancement"
+    },
+    {
+      "stack": "item:easy_mob_farm:sword_enhancement"
+    },
+    {
+      "stack": "item:easy_mob_farm:mystic_binding_crystal"
+    },
+    {
+      "stack": "item:hostilenetworks:sim_chamber"
+    },
+    {
+      "stack": "item:hostilenetworks:loot_fabricator"
+    },
+    {
+      "stack": "item:hostilenetworks:deep_learner"
+    },
+    {
+      "stack": "item:hostilenetworks:blank_data_model"
+    },
+    {
+      "stack": "item:hostilenetworks:prediction_matrix"
+    },
+    {
+      "stack": "item:simpletms:tr_protect"
+    },
+    {
+      "stack": "item:apotheosis:salvaging_table"
+    },
+    {
+      "stack": "item:apotheosis:gem_cutting_table"
+    },
+    {
+      "stack": "item:apotheosis:simple_reforging_table"
+    },
+    {
+      "stack": "item:apotheosis:reforging_table"
+    },
+    {
+      "stack": "item:apotheosis:augmenting_table"
+    },
+    {
+      "stack": "item:reliquary:hero_medallion"
+    },
+    {
+      "stack": "item:reliquary:infernal_chalice"
+    },
+    {
+      "stack": "item:reliquary:emperor_chalice"
+    },
+    {
+      "stack": "item:reliquary:twilight_cloak"
+    },
+    {
+      "stack": "item:mob_grinding_utils:tinted_glass"
+    },
+    {
+      "stack": "bee:productivebees:/diamond"
     }
   ],
   "lookup_history": [
+    "bee:productivebees:/glowing",
+    "bee:productivebees:/redstone",
+    "bee:productivebees:/lapis",
+    "bee:productivebees:/diamond",
+    "bee:productivebees:/ender",
+    "item:productivebees:slimy_nest",
+    "bee:productivebees:/slimy",
+    "bee:productivebees:/emerald",
+    "item:mob_grinding_utils:tinted_glass",
+    "item:mysticalagriculture:soul_dust",
+    "item:mysticalagriculture:soul_glass",
+    "item:mysticalagriculture:witherproof_glass",
+    "item:mysticalagriculture:wither_skeleton_seeds",
+    "item:mysticalagriculture:wither_skeleton_essence",
+    "item:artifacts:everlasting_beef",
+    "item:artifacts:eternal_steak",
+    "item:reliquary:glowing_bread",
+    "item:reliquary:fortune_coin",
+    "item:reliquary:hero_medallion",
+    "item:apotheosis:salvaging_table",
+    "item:minecraft:smithing_table",
+    "item:hostilenetworks:sim_chamber",
+    "item:hostilenetworks:prediction_matrix",
+    "item:hostilenetworks:blank_data_model",
+    "item:minecraft:repeater",
+    "item:hostilenetworks:deep_learner",
+    "item:hostilenetworks:loot_fabricator",
+    "item:easy_mob_farm:mystic_binding_crystal",
+    "item:easy_mob_farm:big_slot_upgrade",
+    "item:easy_mob_farm:void_binding_chain",
+    "item:easy_mob_farm:enduring_capture_net",
+    "item:easy_mob_farm:ironbound_containment_cage",
+    "item:easy_mob_farm:sword_enhancement",
+    "item:easy_mob_farm:speed_enhancement",
+    "item:easy_mob_farm:small_slot_upgrade",
+    "item:easy_mob_farm:loot_enhancement",
+    "item:easy_mob_farm:luck_enhancement",
+    "item:easy_mob_farm:nether_fortress_farm{\"easy_mob_farm:mob_farm_data\":{tierLevel:\"tier_3\"},\"minecraft:custom_model_data\":3}",
+    "item:easy_mob_farm:tier2_mob_farm_template",
+    "item:easy_mob_farm:tier3_mob_farm_template",
+    "item:minecraft:nether_brick_fence",
+    "item:minecraft:glass",
+    "item:easy_mob_farm:tier1_mob_farm_template",
+    "item:minecraft:wither_skeleton_skull",
+    "item:mekanism:basic_logistical_transporter",
+    "item:minecraft:netherite_ingot",
+    "item:mega_showdown:zygarde_cube",
+    "item:mega_showdown:zygarde_cell",
+    "item:cobblemon:restoration_tank",
+    "item:mega_showdown:reassembly_unit",
+    "item:mega_showdown:charizardite_x",
+    "item:cobblemon:dragon_fang",
+    "item:cobblemon:dragon_gem",
+    "item:cobblemon:petaya_berry",
+    "item:cobblemon:hard_stone",
+    "item:tombstone:magic_scroll{\"tombstone:tb_effect_amplifier\":2s,\"tombstone:tb_effect_id\":\"ars_nouveau:mana_regen\"}",
+    "item:cobblemon:rock_gem",
+    "item:cobblemon:razor_fang",
+    "item:mega_showdown:mega_stone",
+    "item:mekanism:energized_smelter",
+    "item:productivebees:honey_treat",
+    "item:mega_showdown:mega_bracelet",
+    "item:mega_showdown:mega_bracelet_black",
+    "item:mega_showdown:brendan_mega_cuff",
+    "item:mega_showdown:may_bracelet",
+    "item:mega_showdown:mega_bracelet_red",
+    "item:cobblemon:exp_share",
+    "item:minecraft:amethyst_shard",
+    "item:productivelib:upgrade_range",
+    "item:productivelib:upgrade_anti_teleport",
+    "item:productivelib:upgrade_block",
+    "item:productivelib:upgrade_time",
+    "item:productivelib:upgrade_productivity_4",
+    "item:minecraft:heart_of_the_sea",
+    "item:productivelib:upgrade_productivity_3",
+    "item:productivelib:upgrade_productivity_2",
+    "item:minecraft:dragon_breath",
+    "bee:productivebees:/draconic",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:draconic\"}",
+    "item:productivebees:draconic_dust",
+    "item:productivebees:draconic_chunk",
+    "item:productivelib:upgrade_productivity",
+    "bee:productivebees:/mason_bee",
+    "bee:productivebees:/gold",
+    "item:sophisticatedstorage:upgrade_base",
+    "item:sophisticatedstorage:hopper_upgrade",
+    "item:sophisticatedstorage:basic_to_iron_tier_upgrade",
+    "item:mega_showdown:chiseled_mega_meteorid_block",
+    "item:mega_showdown:mega_meteorid_radiated_block",
+    "item:mega_showdown:mega_meteorid_block",
+    "item:productivelib:upgrade_simulator",
+    "item:productivebees:feeder",
+    "item:productivelib:upgrade_base",
+    "item:productivebees:sugar_cane_nest",
+    "bee:productivebees:/iron",
+    "bee:productivebees:/copper",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}}",
+    "item:apothic_enchanting:hellshelf",
+    "item:apothic_enchanting:infused_hellshelf",
+    "bee:productivebees:/ashy_mining_bee",
+    "bee:productivebees:/crystalline",
+    "item:productivebees:nether_quartz_nest",
+    "item:minecraft:ender_chest",
+    "item:apothic_enchanting:library",
+    "#item:apothic_enchanting:infused_shelves",
+    "item:apothic_enchanting:ender_library",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":1}}}",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"enchantplus:boots/step_assist\":3}}}",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"create:capacity\":1}}}",
@@ -195,25 +403,12 @@
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:binding_curse\":1}}}",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"tombstone:curse_of_bones\":8}}}",
     "item:easy_mob_farm:ocean_farm{\"easy_mob_farm:mob_farm_data\":{tierLevel:\"tier_1\"},\"minecraft:custom_model_data\":1}",
-    "item:easy_mob_farm:sword_enhancement",
-    "item:easy_mob_farm:tier2_mob_farm_template",
     "item:easy_mob_farm:creative_blank_mob_capture_card",
-    "item:easy_mob_farm:tier3_mob_farm_template",
-    "item:easy_mob_farm:tier1_mob_farm_template",
     "item:easy_mob_farm:tier0_mob_farm_template",
     "item:easy_mob_farm:blank_mob_capture_card",
     "item:sophisticatedstorage:basic_tier_upgrade",
-    "item:sophisticatedstorage:hopper_upgrade",
-    "bee:productivebees:/coal",
-    "item:productivelib:upgrade_simulator",
-    "item:productivebees:feeder",
-    "item:productivelib:upgrade_anti_teleport",
     "item:minecraft:emerald",
     "item:productivebees:end_stone_nest",
-    "bee:productivebees:/ender",
-    "bee:productivebees:/diamond",
-    "bee:productivebees:/emerald",
-    "bee:productivebees:/slimy",
     "item:bhc:red_heart_canister",
     "item:minecraft:coarse_dirt",
     "item:productivebees:coarse_dirt_nest",
@@ -225,11 +420,9 @@
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:coal\"}}",
     "item:minecraft:bee_spawn_egg",
     "item:productivebees:gene",
-    "item:productivebees:honey_treat{\"productivebees:gene_group_list\":[{attribute:\"type\",purity:100,value:\"productivebees:coal\"}]}",
     "item:productivebees:breeding_chamber",
     "item:minecraft:rose_bush",
     "item:productivelib:upgrade_child",
-    "item:productivelib:upgrade_base",
     "item:productivebees:incubator",
     "item:minecraft:daylight_detector",
     "item:productivebees:honey_generator",
@@ -238,7 +431,6 @@
     "item:productivebees:gene_indexer",
     "item:productivebees:catcher",
     "item:mekanism:configurator",
-    "item:mekanism:basic_logistical_transporter",
     "item:mekanism:dust_steel",
     "item:mekanism:ingot_steel",
     "#item:c:ingots/steel",
@@ -280,8 +472,6 @@
     "item:productivebees:sturdy_bee_cage",
     "item:minecraft:stonecutter",
     "item:mega_showdown:noivernite",
-    "item:minecraft:smithing_table",
-    "item:mega_showdown:mega_stone",
     "item:minecraft:paper",
     "item:mega_showdown:keystone",
     "item:simpletms:tr_synchronoise",
@@ -300,16 +490,13 @@
     "item:mega_showdown:omni_ring",
     "item:mega_showdown:dynamax_candy",
     "item:mega_showdown:z_ring_blue",
-    "item:mega_showdown:mega_bracelet_red",
     "item:minecraft:rotten_flesh",
-    "item:mega_showdown:charizardite_x",
     "item:mega_showdown:charizardite_y",
     "item:minecraft:wolf_armor",
     "item:sophisticatedstorage:stack_upgrade_tier_2",
     "item:sophisticatedstorage:stack_upgrade_tier_1",
     "item:sophisticatedstorage:stack_upgrade_tier_1_plus",
     "item:sophisticatedstorage:limited_copper_barrel_1{\"sophisticatedcore:accent_color\":-5231066,\"sophisticatedcore:main_color\":-5231066}",
-    "item:sophisticatedstorage:upgrade_base",
     "item:reliquary:infernal_tear",
     "item:biomeswevegone:witch_hazel_crafting_table",
     "item:minecraft:apple",
@@ -358,7 +545,6 @@
     "item:minecraft:iron_ingot",
     "item:mekanism:steel_casing",
     "item:mekanism:basic_smelting_factory",
-    "item:mekanism:energized_smelter",
     "item:mekanism:metallurgic_infuser",
     "item:mekanism:basic_energy_cube",
     "item:alltheores:copper_ore_hammer",
@@ -367,7 +553,6 @@
     "item:sophisticatedbackpacks:stack_upgrade_tier_1",
     "item:sophisticatedbackpacks:upgrade_base",
     "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
-    "item:sophisticatedstorage:basic_to_iron_tier_upgrade",
     "item:alltheores:raw_platinum",
     "item:mekanism:raw_osmium",
     "#item:c:raw_materials/osmium",
@@ -377,15 +562,46 @@
     "item:sophisticatedbackpacks:iron_backpack"
   ],
   "craft_history": [
-    "minecraft:bone_meal",
+    "productivebees:honey_treat",
+    "mob_grinding_utils:recipe_tintedglass",
+    "apotheosis:salvaging_table",
+    "minecraft:iron_pickaxe",
+    "minecraft:acacia_planks",
+    "minecraft:anvil",
+    "minecraft:iron_block",
+    "minecraft:iron_ingot_from_iron_block",
+    "hostilenetworks:sim_chamber",
+    "hostilenetworks:prediction_matrix",
+    "hostilenetworks:framework",
+    "minecraft:repeater",
+    "hostilenetworks:deep_learner",
+    "easy_mob_farm:upgrade/slot/big_slot_upgrade",
+    "easy_mob_farm:upgrade/enhancement/sword_enhancement",
+    "easy_mob_farm:upgrade/enhancement/speed_enhancement",
+    "easy_mob_farm:upgrade/enhancement/loot_enhancement",
+    "easy_mob_farm:upgrade/enhancement/luck_enhancement",
+    "easy_mob_farm:mob_farm/nether_fortress_farm/tier2_nether_fortress_farm",
+    "easy_mob_farm:mob_farm_template/tier2_mob_farm_template",
+    "mega_showdown:charizardite_x",
+    "cobblemon:dragon_fang",
+    "crafting:dragon_gem",
+    "cobblemon:hard_stone",
+    "crafting:rock_gem",
+    "minecraft:shield",
+    "minecraft:spruce_planks",
+    "mega_showdown:mega_bracelet",
+    "cobblemon:exp_share",
+    "sophisticatedstorage:upgrade_base",
     "productivelib:upgrades/simulator",
+    "productivelib:upgrades/anti_teleport",
+    "productivelib:upgrades/base_pb",
+    "minecraft:nether_bricks",
+    "minecraft:bone_meal",
     "minecraft:honeycomb_block",
     "minecraft:coarse_dirt",
     "productivebees:nests/nether_brick_nest",
-    "minecraft:nether_bricks",
     "productivebees:breeding_chamber",
     "productivelib:upgrades/child",
-    "productivelib:upgrades/base_pb",
     "productivebees:incubator",
     "minecraft:daylight_detector",
     "minecraft:spruce_slab",
@@ -395,7 +611,6 @@
     "mekanism:transmitter/logistical_transporter/basic",
     "productivebees:powered_centrifuge/mekanism",
     "productivebees:feeder",
-    "productivebees:honey_treat",
     "minecraft:beehive",
     "minecraft:campfire",
     "productivebees:expansion_boxes/expansion_box_spruce",
@@ -404,17 +619,13 @@
     "minecraft:stone_slab",
     "productivebees:bottler",
     "minecraft:stonecutter",
-    "minecraft:spruce_planks",
     "minecraft:oak_planks",
     "mega_showdown:crafting_noivernite",
     "alltheores:crafting/aluminum/ingot_from_block",
     "alltheores:crafting/aluminum/block_from_ingot",
     "sophisticatedstorage:stack_upgrade_tier_1",
-    "sophisticatedstorage:upgrade_base",
     "sophisticatedstorage:spruce_chest",
-    "minecraft:iron_ingot_from_iron_block",
     "sophisticatedstorage:stack_upgrade_tier_2",
-    "minecraft:iron_block",
     "minecraft:golden_apple",
     "minecraft:fermented_spider_eye",
     "minecraft:sugar_from_sugar_cane",
@@ -425,7 +636,6 @@
     "minecraft:mossy_cobblestone_from_vine",
     "minecraft:shears",
     "easy_villagers:trader",
-    "minecraft:iron_pickaxe",
     "cobblemon:great_ball",
     "minecraft:bookshelf",
     "minecraft:enchanting_table",
@@ -446,7 +656,6 @@
     "minecraft:redstone_torch",
     "sophisticatedstorage:stack_upgrade_tier_3",
     "minecraft:flint_and_steel",
-    "minecraft:shield",
     "minecraft:torch",
     "minecraft:flower_pot",
     "botanypots:botanypots/crafting/terracotta_hopper_botany_pot",
