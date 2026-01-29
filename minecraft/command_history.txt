@@ -1,16 +1,3 @@
-/back'
-/back
-/pc
-/pokespawn arbok
-/tp GameMonster9640
-/home
-/pokespawn arbok
-/pc
-/po
-/pc
-/back
-/tp Redcats13 222 -42 -743
-/home
 /rtp
 /home
 /tp GameMonster9640
@@ -48,3 +35,16 @@
 /dh config generation.mode INTERNAL_SERVER
 /dh config generation.threads auto
 /dh pregen start minecraft:overworld 0 0 625
+/dh pregen status
+/gamemode spectator
+/gamemode creative
+/spawn
+/heal
+/fly
+/dh pregen status
+/spawn
+/dh pregen status
+/pc
+/spawn
+/experience add Redcats13 1000000000 levels
+/experience set Redcats13 10000 levels
