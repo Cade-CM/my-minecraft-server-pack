@@ -1,50 +1,50 @@
-/rtp
+/spawn
+/sethome
 /home
-/tp GameMonster9640
+/tp Redcats13 _Tasu_
+/back
+/pc
+/home
+/tp _Tasu_
+/home
+/pokespawn joltik shiny
+/home
+/pokeheal
+/home
+/back
+/pokespawn diancie lvl=60
+/pokegive diancie lvl=60
+/home
+/pokemonedit 1 ability battle_bond
+/pokemonedit 1 ability=battlebond
+/home
+/back
+/home
+/back
+/home
+/back
+/home
+/pokespawn entei lvl=70
+/ppc
+/pc
+/home
+/pc
+/pokeheal
+/pc
+/home
+/pokeheal
+/ppc
+/pc
+/home
+/pc
+/pokespawn groudon
+/home
+/back
+/home
+/pokeheal
+/home
+/back
 /home
 /back
 /pokeheal
 /home
-/pc
-/home
-/back
-/home
-/rtp
-/back
-/tp 73 88 404
-/tp 73 88 4040
-/back
-/home
-/tp 71 85 4045
-/back
-/tp 166 78 4075
-/pc
-/back
-/tp 52 86 4066
-/back
-/home
-/back
-/home
-/back
-/home
-/gamemode creative
-/locate structure minecraft:village_snowy
-/spawn
-/setworldspawn
-/spawn
-/dh config generation.mode INTERNAL_SERVER
-/dh config generation.threads auto
-/dh pregen start minecraft:overworld 0 0 625
-/dh pregen status
-/gamemode spectator
-/gamemode creative
-/spawn
-/heal
-/fly
-/dh pregen status
-/spawn
-/dh pregen status
-/pc
-/spawn
-/experience add Redcats13 1000000000 levels
-/experience set Redcats13 10000 levels
